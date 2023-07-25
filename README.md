@@ -12,7 +12,7 @@ This is a demo project to create ETL data pipelines using Apache Airflow.
 
 4. Transform the data
 
-5.Load the transformed data into the staging area
+5. Load the transformed data into the staging area
 
 ## Installation and Setup
 
